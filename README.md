@@ -18,7 +18,7 @@ Byakugan is a real-time object detection project that utilizes the YOLO (You Onl
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/byakugan.git
+    git clone https://github.com/masoomul786/Byakugan.git
     cd byakugan
     ```
 
